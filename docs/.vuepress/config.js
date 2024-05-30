@@ -9,6 +9,8 @@ export default defineUserConfig({
     title: "Coke",
     description: "Hello! I'm Coke.",
 
+    base: '/note-blog/',
+
     theme: defaultTheme({
         logo: "https://vuejs.press/images/hero.png",
 
